@@ -1,0 +1,14 @@
+youtube_dl
+requests
+instaloader
+png
+pyTelegramBotAPI
+pyqrcode
+pafy
+requests
+mysql-connector-python
+youtube-search-python
+beautifulsoup4
+requests-html
+pypng
+click
